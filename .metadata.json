@@ -1,0 +1,10 @@
+[
+  {
+    "package": "bipd",
+    "oncran": true
+  },
+  {
+    "package": "bnma",
+    "oncran": true
+  }
+]
